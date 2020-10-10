@@ -1,0 +1,2 @@
+# mycodility-solutions
+Codility-test
